@@ -1,1 +1,1 @@
-hi
+I've implemented a 2-layer neural network from scratch using custom CUDA kernels to classify handwritten digits from the MNIST dataset. Instead of using high-level libraries like PyTorch or TensorFlow, I wrote raw GPU kernels for matrix multiplication, ReLU activation, and softmax to understand how neural networks actually execute on hardware. Hope you will find this useful as you learn CUDA!
